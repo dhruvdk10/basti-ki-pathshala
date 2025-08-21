@@ -1,24 +1,24 @@
-# Basti Ki Pathshala 🏫
+# 📚 Basti Ki Pathshala (Portfolio App)
 
-A Flutter app made for the NGO **Basti Ki Pathshala** to collect volunteer details through a simple, clean form.
+This is a demo mobile application built using **Flutter** for portfolio purposes.  
+It is not a live NGO app, only a **sample project** to showcase my skills in mobile app development.
 
-## Features
-- Responsive volunteer registration form
-- Fields: Name, Phone, Email, City, Gender, Availability, Reason
-- Input validation and confirmation message
+---
 
-## Getting Started
-1. Clone the repo:
-   `https://github.com/dhruvdk10/basti-ki-pathshala.git`
+## 🚀 Features
+- 📌 Clean UI with logo and branding  
+- 📝 Volunteer registration form with validation  
+- 📱 Responsive design for different devices  
+- 🎨 Modern and user-friendly interface  
 
-2. Run the app:
-   ```bash
-   flutter pub get
-   flutter run -d chrome
+---
 
 ## 📱 Demo APK
-[Download APK](./apk/basti_ki_pathshala.apk) – for testing/demo purposes only
+You can try the app by downloading the APK here:  
+👉 [Download APK](./apk/basti_ki_pathshala.apk)
 
-📌 Note: This app was built only for portfolio/demo purposes. It is not a live NGO application.
+---
 
-# Made with ❤️ by Dhruv Kapoor
+## ⚠️ Disclaimer
+This app is **not functional as a real NGO application**.  
+It was created **only for portfolio/demo purposes**.
